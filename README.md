@@ -31,6 +31,9 @@ This repository contains MATLAB scripts and a Simulink model that simulate the d
 Supervised by: **Dr. Jonathan Liscouët**  
 Course: MECH 6091 – Flight Control Systems
 
+## 📬 Contact
+Please contact me on [LinkedIn](www.linkedin.com/in/prathmeshgondkar) if you have any questions or need collaboration.
+
 ---
 
 > “Control is the art of making things behave the way we want them to — even when nature disagrees.”
